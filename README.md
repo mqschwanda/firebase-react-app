@@ -1,9 +1,5 @@
 This project was bootstrapped with [Firebase Tools](https://github.com/firebase/firebase-tools) and [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Quick Links:
-* [Firebase Tools README](#firebase-tools)
-* [Create React App README](#create-react app)
-
 # Firebase Tools
 
 ## Commands
