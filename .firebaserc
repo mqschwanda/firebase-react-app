@@ -1,0 +1,6 @@
+{
+  /* rename default using your PROJECT_ID  */
+  "projects": {
+    "default": "fir-react-app-54678"
+  }
+}
